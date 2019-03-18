@@ -193,12 +193,6 @@ The above example will match anything prepended with `/hello/` such as `/hello/j
 
 If you need to be really flexible with your pattern matching, you can define your own regular expression. Any capture groups will be extracted from the matching URL and made available in the destination as numbered segments such as `{1}` and `{2}`.
 
-## Donations
-
-If you enjoy using this library or found it useful, consider making a donation to support its ongoing development.
-
-##### Bitcoin: `12or3DVWmYJ8az9FR957qz2qLWLNzUYveL`
-
 ## License
 
 [MIT](license) © [Jason Maurer](http://maur.co)
